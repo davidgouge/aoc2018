@@ -1,0 +1,11 @@
+c:\Users\daveg\Source\aoc2018\Day3\bin\Debug\netcoreapp3.0\Day3.exe
+C:\Users\daveg\Source\aoc2018\Day3\bin\Debug\netcoreapp3.0\Day3.deps.json
+C:\Users\daveg\Source\aoc2018\Day3\bin\Debug\netcoreapp3.0\Day3.runtimeconfig.json
+C:\Users\daveg\Source\aoc2018\Day3\bin\Debug\netcoreapp3.0\Day3.runtimeconfig.dev.json
+c:\Users\daveg\Source\aoc2018\Day3\bin\Debug\netcoreapp3.0\Day3.dll
+c:\Users\daveg\Source\aoc2018\Day3\bin\Debug\netcoreapp3.0\Day3.pdb
+c:\Users\daveg\Source\aoc2018\Day3\obj\Debug\netcoreapp3.0\Day3.csprojAssemblyReference.cache
+c:\Users\daveg\Source\aoc2018\Day3\obj\Debug\netcoreapp3.0\Day3.AssemblyInfoInputs.cache
+c:\Users\daveg\Source\aoc2018\Day3\obj\Debug\netcoreapp3.0\Day3.AssemblyInfo.cs
+c:\Users\daveg\Source\aoc2018\Day3\obj\Debug\netcoreapp3.0\Day3.dll
+c:\Users\daveg\Source\aoc2018\Day3\obj\Debug\netcoreapp3.0\Day3.pdb
